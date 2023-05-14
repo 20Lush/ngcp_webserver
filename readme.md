@@ -3,7 +3,7 @@ clone this repo into ~/ros2_ws/src
 file system should look like
     ~/
     
-    ----/ros2_ws/
+    ----> /ros2_ws
     
                     /build
                     
